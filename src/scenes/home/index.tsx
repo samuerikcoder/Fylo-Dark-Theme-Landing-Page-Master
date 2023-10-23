@@ -1,9 +1,7 @@
 import IlustrationIntro from "@/assets/illustration-intro.png";
 import { useMediaQuery } from "react-responsive";
 
-type Props = {}
-
-const Home = (props: Props) => {
+const Home = () => {
   const isAboveMediumScreens = useMediaQuery({query: '(min-width: 1060px)'})
   const isAboveLargeScreens = useMediaQuery({query: '(min-width: 1440px)'});
   const isAboveXtraLargeScreens = useMediaQuery({query: '(min-width: 1710px)'});
