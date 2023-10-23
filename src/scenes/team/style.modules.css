@@ -1,0 +1,9 @@
+.before-bg-size::before {
+  background-size: 10%;
+}
+
+@media(min-width: 1060px) {
+  .before-bg-size::before {
+    background-size: 4%;
+  }
+}
