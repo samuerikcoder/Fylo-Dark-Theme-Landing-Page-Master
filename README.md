@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://fylo-loading-page-dark-theme.netlify.app/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://fylo-loading-page-dark-theme.netlify.app/](https://fylo-loading-page-dark-theme.netlify.app/)
+- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
 
 ## My process
 
