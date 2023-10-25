@@ -66,6 +66,11 @@ const Footer = () => {
           </div>
         </div>
       </div>
+
+      <p className="text-xs text-white text-center mt-20 md:text-sm">
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" className="text-blue-attribution">Frontend Mentor</a>. 
+        Coded by <a href="https://www.github.com/samuerikcoder" className="text-blue-attribution">Samuerikcoder</a>.
+      </p>
     </footer>
   );
 };

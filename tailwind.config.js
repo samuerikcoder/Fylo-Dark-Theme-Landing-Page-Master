@@ -11,6 +11,7 @@ export default {
         "dark-blue-main": "hsl(218, 28%, 13%)",
         "dark-blue-footer": "hsl(216, 53%, 9%)",
         "dark-blue-testimonials": "hsl(219, 30%, 18%)",
+        "blue-attribution": "hsl(228, 45%, 44%)",
         "cyan": "hsl(176, 68%, 64%)",
         "blue": "hsl(198, 60%, 50%)",
         "light-red-error": "hsl(0, 100%, 63%)",
